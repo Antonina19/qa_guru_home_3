@@ -7,8 +7,8 @@ public class Main {
         spheniscidae.genius = "Sphenisciformes";
 
         Birds.sayNameOfAllBirds();
-        System.out.println(trochilidae.genius);
-        System.out.println(spheniscidae.genius);
+        System.out.println("Birds genius - " + trochilidae.genius);
+        System.out.println("Birds genius - " + spheniscidae.genius);
 
 
 
